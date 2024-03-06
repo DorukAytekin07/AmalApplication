@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987240645551",
+    "project_id": "adnan-menderes-app",
+    "storage_bucket": "adnan-menderes-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987240645551:android:83ff7944ab8c81a5a3255a",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsr_lD0nLBUg2svUEx_7K8fKdK2woCLJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
